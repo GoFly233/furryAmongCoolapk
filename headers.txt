@@ -1,0 +1,8 @@
+User-Agent: Dalvik/2.1.0 +CoolMarket/10.5.3-2009271
+X-Requested-With: XMLHttpRequest
+X-Sdk-Int: 29
+X-Sdk-Locale: zh-CN
+X-App-Id: com.coolapk.market
+X-App-Version: 10.5.3
+X-App-Code: 2009271
+X-Api-Version: 10
